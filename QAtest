@@ -1,0 +1,19 @@
+sample-project/
+│── src/
+│   └── main.py
+│── tests/
+│   └── test_main.py
+│── README.md
+│── requirements.txt
+```
+
+## ⚙️ Installation
+```bash
+git clone https://github.com/your-username/sample-project.git
+cd sample-project
+pip install -r requirements.txt
+```
+
+## ▶️ Usage
+```bash
+python src/main.py
